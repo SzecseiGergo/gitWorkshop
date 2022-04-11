@@ -1,3 +1,3 @@
-const count = (age) => {
-    console.log(age)
+const count = () => {
+    console.log('3')
 }
