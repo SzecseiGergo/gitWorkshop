@@ -1,4 +1,4 @@
-function future(parameter) {
-  console.log(`Your future looks like ${parameter}`);
+function future(parameters) {
+  console.log(parameters);
 }
-future("parameter");
+future(parameters);
