@@ -1,4 +1,6 @@
-function cheer (parameter) {
-    console.log('Cheer for the' + parameter)
+
+function cheer (language) {
+    console.log(language)
+
 }
 

@@ -1,3 +1,3 @@
-const count = () => {
-    console.log('3')
+const count = (a, b) => {
+    console.log(a, b)
 }

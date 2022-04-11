@@ -1,3 +1,3 @@
-function greet(){
-    console.log("Greetings!")
+function greet(parameter){
+    console.log(`Greetings for the ${parameter}!`)
 }
