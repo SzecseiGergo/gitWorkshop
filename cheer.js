@@ -1,4 +1,4 @@
-function cheer () {
-    console.log("group 3")
+function cheer (language) {
+    console.log(language)
 }
 
