@@ -1,3 +1,3 @@
 const count = () => {
-    console.log('3')
+    console.log('Counting the countless parameter')
 }
