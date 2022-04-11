@@ -1,4 +1,4 @@
-function future() {
-  console.log("bika");
+function future(parameter) {
+  console.log(parameter);
 }
-future();
+future(parameter);
